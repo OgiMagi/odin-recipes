@@ -1,0 +1,40 @@
+* {
+    background-color: #FAF3DD;
+    font-family: "Helvetica";
+    color: #292F36;
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    color: #395B50;
+}
+
+.midi-header
+ {
+    text-align: center;
+    color: #395B50;
+    font-size: 30px;
+}
+
+.mini-header
+ {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p1 {
+   font-size: 25px
+}
+
+.list {
+    font-size: 20px;
+    text-align: start;
+    font-weight: normal;
+}
